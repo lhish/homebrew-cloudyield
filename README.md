@@ -9,7 +9,7 @@ brew tap lhish/cloudyield
 brew install --cask cloudyield
 ```
 
-这会自动安装依赖 `media-control`。
+系统要求：macOS 14.2+。首次运行需要授予「辅助功能」与「音频捕获」权限（用于控制网易云与检测其他应用出声）。
 
 ## 卸载
 
