@@ -1,6 +1,6 @@
 cask "cloudyield" do
-  version "1.3.2"
-  sha256 "f65443c66330d70974a2988cc31ac650c08ad8edaf9c15b5b89afb67e1ff3eff"
+  version "1.3.3"
+  sha256 "322d127f8179f6dd8dfd656da560d4dc2f00ad86b94ebdb0cdce89b35b05b105"
 
   url "https://github.com/lhish/CloudYield/releases/download/v#{version}/CloudYield-#{version}.zip"
   name "CloudYield"
